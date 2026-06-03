@@ -1,7 +1,5 @@
 # MakeJSON CLI
 
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/alireza5522/project-to-jsonprompt)
-
 A simple and efficient command-line tool to pack your project's structure and file contents into a single JSON file. This is ideal for providing comprehensive, copy-paste-ready context to Large Language Models (LLMs) and other AI tools.
 
 ## Features
